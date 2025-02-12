@@ -10,7 +10,7 @@
 2. 可以监控接通电话的状态、挂断电话的状态、通话中等状态；
 3. 可以实时翻译识别电话内容。
 
-### Android phone automatic reply
+### Want Android phone automatic reply
 
 Function List:
 
